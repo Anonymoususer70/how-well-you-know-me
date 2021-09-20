@@ -42,7 +42,7 @@ const questions = [
         optionB: "He himself",
         optionC: "Animals",
         optionD: "You",
-        correct: "optionD"
+        correct: "optionB"
     },
     {
         question: "Who knows everything about him?",
